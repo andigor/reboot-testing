@@ -1,0 +1,5 @@
+dir \ExternalFlash\PersistentData1 p1
+dir /ExternalFlash/PersistentData2 p2
+disconnect
+quit
+
